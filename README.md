@@ -1,2 +1,2 @@
-# Z-Ku-a-n-n-Dili-Analiz-Arac-
-Projem z kuşağının kullandığı ingilizce kelimeleri, emojileri ve kısaltmaları diğer kelimelerden ayırabilecek şekilde çalışıyor. projemde HTML, CSS ve Java Script kullandım. HTML ile arayüzünü, CSS ile görünümünü ve Java Script ile ise mantığını oluşturdum. Projem internet gerektirmez, web aracında rahatça çalışır.
+# Z-Kusaginin-Dili-Analiz-Araci
+Bu proje, Z kuşağının dijital ortamlarda kullandığı emoji, kısaltma ve yabancı kökenli kelimeleri analiz etmeyi amaçlayan basit bir NLP (Doğal Dil İşleme) uygulamasıdır. Kullanıcı tarafından girilen metin, JavaScript ile analiz edilerek bu dil öğeleri tespit edilir ve ekranda gösterilir. Projede arayüz HTML ile oluşturulmuş, tasarım CSS ile yapılmış ve tüm analiz işlemleri JavaScript kullanılarak gerçekleştirilmiştir. Proje, Z kuşağına özgü dijital dil kullanımını anlamaya yönelik eğitim amaçlı bir çalışmadır.
